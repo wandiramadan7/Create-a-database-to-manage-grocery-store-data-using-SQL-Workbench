@@ -1,0 +1,29 @@
+Item num,description,quantity on-hand,cost,purchase date,vendor,price,date sold,cust,Quantity,item type,Location,Unit
+,,,,,,,,,,,,
+"1000,Bennet Farm free-range eggs,29,2.35,2/1/2022,""Bennet Farms, Rt. 17 Evansville, IL 55446"",,,,25,Dairy,D12,dozen"
+1000,Bennet Farm free-range eggs,27,,,,5.49,2/2/2022,198765,2,Dairy,D12,dozen
+2000,Ruby's Kale,3,,,,3.99,2/2/2022, ,2,Produce,p12,bunch
+1100,Freshness White beans,13,,,,1.49,2/2/2022,202900,2,Canned,a2,12 ounce can
+"1100,Freshness White beans,53,0.69,2/2/2022,""Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"",,,,40,Canned,a2,12 oz can"
+1000,Bennet Farm free-range eggs,25,,,,5.99,2/4/2022,196777,2,Dairy,D12,dozen
+1100,Freshness White beans,45,,,,1.49,2/7/2022,198765,8,Canned,a2,12-oz can
+"1222,Freshness Green beans,59,0.59,2/10/2022,""Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"",,,,40,Canned,a3,12 ounce can"
+"1223,Freshness Green beans,12,1.75,2/10/2022,""Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"",,,,10,Canned,a7,36 oz can"
+"1224,Freshness Wax beans,31,0.65,2/10/2022,""Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"",,,,30,Canned,a3,12 ounce can"
+1000,Bennet Farm free-range eggs,21,,,,5.49,2/11/2022,277177,4,Dairy,d12,dozen
+1100,Freshness White beans,41, ,,,1.49,2/11/2022,,4,Canned,a2,12 ounce can
+1222,Freshness Green beans,47,,,,1.29,2/12/2022,111000,12,Canned,a3,12-oz can
+1224,Freshness Wax beans,23,,,,1.55,2/12/2022,,8,Canned,a3,12-oz can
+"2000,Ruby's Kale,28,1.29,2/12/2022,""Ruby Redd Produce, LLC, 1212 Milam St., Kenosha, AL, 34567"",,,,25,Produce,p12,bunch"
+"2001,Ruby's Organic Kale,20,2.19,2/12/2022,""Ruby Redd Produce, LLC, 1212 Milam St., Kenosha, AL, 34567"",,,,20,Produce,po2,bunch"
+1223,Freshness Green beans,7,,,,3.49,2/13/2022,198765,5,Canned,a7,36 oz can
+2001,Ruby's Organic Kale,19,,,,6.99,2/13/2022,100988,1,Produce,po2,bunch
+2001,Ruby's Organic Kale,7,,,,6.99,2/14/2022,202900,12,Produce,po2,bunch
+"1223,Freshness Green beans,17,1.8,2/15/2022,""Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"",,,,10,Canned,a7,36 oz can"
+2000,Ruby's Kale,26,,,,3.99,2/15/2022,111000,2,Produce,p12,bunch
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
