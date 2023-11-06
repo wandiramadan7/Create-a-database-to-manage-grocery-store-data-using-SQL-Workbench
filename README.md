@@ -18,4 +18,4 @@ With the creation of this database, I learned how to address the data issues tha
 - Inconsistent data input is avoided.
 - Data can be easily integrated as needed.
 
-For a more detailed explanation of creating the database, you can read it in the Medium post I've created:
+For a more detailed explanation of creating the database, you can read it in the Medium post I've created: https://medium.com/@wandiramadan.stat/create-a-database-to-manage-grocery-store-data-using-sql-workbench-ec351cf2e6d7
